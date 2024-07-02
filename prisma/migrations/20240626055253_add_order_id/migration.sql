@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `error` ADD COLUMN `order_id` INTEGER NOT NULL DEFAULT 0;
